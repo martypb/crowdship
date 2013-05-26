@@ -1,0 +1,1328 @@
+2013May25-11:42:17
+POST: array (
+)
+
+
+2013May25-11:42:27
+POST: array (
+)
+
+
+2013May25-11:42:47
+POST: array (
+)
+
+
+2013May25-11:42:59
+POST: array (
+  'csrftoken' => '9f5dd24653a82828e8fc8de1d1f12e90',
+  'action' => 'process',
+  'box' => '0',
+  'cat_no' => '1',
+  'cat0' => '170',
+)
+
+
+2013May25-11:43:04
+POST: array (
+  'csrftoken' => '9f5dd24653a82828e8fc8de1d1f12e90',
+  'action' => 'process',
+  'box' => '1',
+  'cat_no' => '1',
+  'cat0' => '170',
+  'cat1' => '172',
+)
+
+
+2013May25-11:43:09
+POST: array (
+  'csrftoken' => '9f5dd24653a82828e8fc8de1d1f12e90',
+  'action' => 'process',
+  'box' => '',
+  'cat_no' => '1',
+  'cat0' => '170',
+  'cat1' => '172',
+  'submitit' => 'SELECT CATEGORY >>',
+)
+
+
+2013May25-11:43:09
+POST: array (
+)
+
+
+2013May25-11:45:13
+POST: array (
+  'csrftoken' => '9f5dd24653a82828e8fc8de1d1f12e90',
+  'title' => 'Burton Snowboard',
+  'subtitle' => 'Trick board',
+  'description' => '<p>
+	This is a great snowboard - it&#39;s gnarly, dude.</p>
+',
+  'imgtype' => '1',
+  'numimages' => '0',
+  'atype' => '1',
+  'minimum_bid' => '100',
+  'shipping_cost' => '15',
+  'with_reserve' => 'no',
+  'reserve_price' => '0.00',
+  'buy_now' => 'no',
+  'increments' => '2',
+  'customincrement' => '5',
+  'start_now' => 'on',
+  'a_starts' => '25-05-2013 21:43:09',
+  'duration' => '1',
+  'shipping' => '1',
+  'shipping_terms' => '',
+  'payment' => 
+  array (
+    0 => 'paypal',
+    1 => '1',
+  ),
+  'autorelist' => '0',
+  'action' => '2',
+)
+
+
+2013May25-11:45:28
+POST: array (
+  'csrftoken' => '9f5dd24653a82828e8fc8de1d1f12e90',
+  'nick' => 'martypb',
+  'password' => 'angelhack23',
+  'action' => '3',
+)
+
+
+2013May25-12:02:18
+POST: array (
+)
+
+
+2013May25-12:07:54
+POST: array (
+)
+
+
+2013May25-12:07:54
+POST: array (
+  'bid' => '200',
+  'seller_id' => '1',
+  'title' => 'Burton Snowboard',
+  'category' => '172',
+  'id' => '1',
+  'csrftoken' => 'c0f73c5af76a2a678d723f2b9327e5f6',
+)
+
+
+2013May25-12:08:03
+POST: array (
+  'csrftoken' => 'c0f73c5af76a2a678d723f2b9327e5f6',
+  'bid' => '200.00',
+  'password' => 'spongoose',
+  'id' => '1',
+  'action' => 'bid',
+  'Input' => 'Confirm bid',
+)
+
+
+2013May25-12:08:49
+POST: array (
+  'bid' => '215',
+  'seller_id' => '1',
+  'title' => 'Burton Snowboard',
+  'category' => '172',
+  'id' => '1',
+  'csrftoken' => 'a0c8f6094ab240c0d690043a109a9ddc',
+)
+
+
+2013May25-12:08:57
+POST: array (
+  'csrftoken' => 'a0c8f6094ab240c0d690043a109a9ddc',
+  'bid' => '215.00',
+  'password' => 'tester',
+  'id' => '1',
+  'action' => 'bid',
+  'Input' => 'Confirm bid',
+)
+
+
+2013May25-12:09:07
+POST: array (
+)
+
+
+2013May25-12:18:38
+POST: array (
+  'csrftoken' => 'c0f73c5af76a2a678d723f2b9327e5f6',
+  'bid' => '200.00',
+  'password' => 'spongoose',
+  'id' => '1',
+  'action' => 'bid',
+  'Input' => 'Confirm bid',
+)
+
+
+2013May25-12:30:22
+POST: array (
+)
+
+
+2013May25-12:30:28
+POST: array (
+  'csrftoken' => '99adaf46039be7a3af6d41e109d9a09e',
+  'action' => 'process',
+  'box' => '0',
+  'cat_no' => '1',
+  'cat0' => '162',
+)
+
+
+2013May25-12:30:33
+POST: array (
+  'csrftoken' => '99adaf46039be7a3af6d41e109d9a09e',
+  'action' => 'process',
+  'box' => '1',
+  'cat_no' => '1',
+  'cat0' => '162',
+  'cat1' => '167',
+)
+
+
+2013May25-12:30:38
+POST: array (
+  'csrftoken' => '99adaf46039be7a3af6d41e109d9a09e',
+  'action' => 'process',
+  'box' => '',
+  'cat_no' => '1',
+  'cat0' => '162',
+  'cat1' => '167',
+  'submitit' => 'SELECT CATEGORY >>',
+)
+
+
+2013May25-12:30:39
+POST: array (
+)
+
+
+2013May25-12:30:59
+POST: array (
+)
+
+
+2013May25-12:31:39
+POST: array (
+  'csrftoken' => '99adaf46039be7a3af6d41e109d9a09e',
+  'uploadpicture' => 'Upload file',
+)
+
+
+2013May25-12:32:27
+POST: array (
+)
+
+
+2013May25-12:33:15
+POST: array (
+  'csrftoken' => '99adaf46039be7a3af6d41e109d9a09e',
+  'uploadpicture' => 'Upload file',
+)
+
+
+2013May25-12:33:19
+POST: array (
+  'csrftoken' => '99adaf46039be7a3af6d41e109d9a09e',
+  'creategallery' => '>>> Create Gallery <<<',
+)
+
+
+2013May25-12:33:28
+POST: array (
+  'csrftoken' => '99adaf46039be7a3af6d41e109d9a09e',
+  'title' => 'Ticket to something',
+  'subtitle' => 'sub',
+  'description' => '<p>
+	blusdf</p>
+',
+  'imgtype' => '1',
+  'numimages' => '1',
+  'atype' => '1',
+  'minimum_bid' => '0.99',
+  'shipping_cost' => '0.00',
+  'with_reserve' => 'no',
+  'reserve_price' => '0.00',
+  'buy_now' => 'no',
+  'increments' => '1',
+  'start_now' => '1',
+  'duration' => '1',
+  'shipping' => '1',
+  'shipping_terms' => '',
+  'action' => '2',
+)
+
+
+2013May25-12:33:42
+POST: array (
+  'csrftoken' => '99adaf46039be7a3af6d41e109d9a09e',
+  'title' => 'Ticket to something',
+  'subtitle' => 'sub',
+  'description' => '<p>
+	blusdf</p>
+',
+  'imgtype' => '1',
+  'numimages' => '1',
+  'atype' => '2',
+  'iquantity' => '1',
+  'minimum_bid' => '0.99',
+  'shipping_cost' => '0.00',
+  'with_reserve' => 'no',
+  'reserve_price' => '0.00',
+  'buy_now' => 'no',
+  'increments' => '1',
+  'start_now' => '1',
+  'duration' => '1',
+  'shipping' => '1',
+  'shipping_terms' => '',
+  'payment' => 
+  array (
+    0 => 'paypal',
+  ),
+  'action' => '2',
+)
+
+
+2013May25-12:34:19
+POST: array (
+  'csrftoken' => '99adaf46039be7a3af6d41e109d9a09e',
+  'nick' => 'martypb',
+  'password' => 'angelhack23',
+  'action' => '3',
+)
+
+
+2013May25-12:45:53
+POST: array (
+)
+
+
+2013May25-12:45:59
+POST: array (
+  'csrftoken' => '99adaf46039be7a3af6d41e109d9a09e',
+  'action' => 'process',
+  'box' => '0',
+  'cat_no' => '1',
+  'cat0' => '72',
+)
+
+
+2013May25-12:46:05
+POST: array (
+  'csrftoken' => '99adaf46039be7a3af6d41e109d9a09e',
+  'action' => 'process',
+  'box' => '1',
+  'cat_no' => '1',
+  'cat0' => '72',
+  'cat1' => '73',
+)
+
+
+2013May25-12:46:09
+POST: array (
+  'csrftoken' => '99adaf46039be7a3af6d41e109d9a09e',
+  'action' => 'process',
+  'box' => '',
+  'cat_no' => '1',
+  'cat0' => '72',
+  'cat1' => '73',
+  'submitit' => 'SELECT CATEGORY >>',
+)
+
+
+2013May25-12:46:10
+POST: array (
+)
+
+
+2013May25-12:52:57
+POST: array (
+)
+
+
+2013May25-12:53:14
+POST: array (
+  'csrftoken' => '99adaf46039be7a3af6d41e109d9a09e',
+  'title' => 'coin',
+  'subtitle' => 'ocoin',
+  'description' => '<p>
+	coins</p>
+',
+  'imgtype' => '1',
+  'numimages' => '0',
+  'atype' => '1',
+  'minimum_bid' => '0.99',
+  'shipping_cost' => '0.00',
+  'with_reserve' => 'no',
+  'reserve_price' => '0.00',
+  'buy_now' => 'no',
+  'increments' => '1',
+  'start_now' => '1',
+  'duration' => '1',
+  'shipping' => '1',
+  'shipping_terms' => '',
+  'payment' => 
+  array (
+    0 => 'paypal',
+  ),
+  'action' => '2',
+)
+
+
+2013May25-12:53:32
+POST: array (
+  'csrftoken' => '99adaf46039be7a3af6d41e109d9a09e',
+  'nick' => 'martypb',
+  'password' => 'angelhack23',
+  'action' => '3',
+)
+
+
+2013May25-12:53:40
+POST: array (
+)
+
+
+2013May25-12:54:13
+POST: array (
+)
+
+
+2013May25-12:54:21
+POST: array (
+)
+
+
+2013May25-12:54:35
+POST: array (
+)
+
+
+2013May25-12:56:53
+POST: array (
+)
+
+
+2013May25-12:56:58
+POST: array (
+  'csrftoken' => '99adaf46039be7a3af6d41e109d9a09e',
+  'action' => 'process',
+  'box' => '0',
+  'cat_no' => '1',
+  'cat0' => '29',
+)
+
+
+2013May25-12:57:02
+POST: array (
+  'csrftoken' => '99adaf46039be7a3af6d41e109d9a09e',
+  'action' => 'process',
+  'box' => '1',
+  'cat_no' => '1',
+  'cat0' => '29',
+  'cat1' => '34',
+)
+
+
+2013May25-12:57:07
+POST: array (
+  'csrftoken' => '99adaf46039be7a3af6d41e109d9a09e',
+  'action' => 'process',
+  'box' => '',
+  'cat_no' => '1',
+  'cat0' => '29',
+  'cat1' => '34',
+  'submitit' => 'SELECT CATEGORY >>',
+)
+
+
+2013May25-12:57:08
+POST: array (
+)
+
+
+2013May25-13:52:36
+POST: array (
+)
+
+
+2013May25-13:52:39
+POST: array (
+  'csrftoken' => '99adaf46039be7a3af6d41e109d9a09e',
+  'action' => 'process',
+  'box' => '0',
+  'cat_no' => '1',
+  'cat0' => '2',
+)
+
+
+2013May25-13:52:42
+POST: array (
+  'csrftoken' => '99adaf46039be7a3af6d41e109d9a09e',
+  'action' => 'process',
+  'box' => '1',
+  'cat_no' => '1',
+  'cat0' => '2',
+  'cat1' => '5',
+)
+
+
+2013May25-13:52:44
+POST: array (
+  'csrftoken' => '99adaf46039be7a3af6d41e109d9a09e',
+  'action' => 'process',
+  'box' => '',
+  'cat_no' => '1',
+  'cat0' => '2',
+  'cat1' => '5',
+  'submitit' => 'SELECT CATEGORY >>',
+)
+
+
+2013May25-13:52:44
+POST: array (
+)
+
+
+2013May25-13:54:01
+POST: array (
+)
+
+
+2013May25-13:54:03
+POST: array (
+)
+
+
+2013May25-13:54:05
+POST: array (
+)
+
+
+2013May25-13:54:07
+POST: array (
+  'csrftoken' => '99adaf46039be7a3af6d41e109d9a09e',
+  'action' => 'process',
+  'box' => '0',
+  'cat_no' => '1',
+  'cat0' => '2',
+)
+
+
+2013May25-13:54:08
+POST: array (
+  'csrftoken' => '99adaf46039be7a3af6d41e109d9a09e',
+  'action' => 'process',
+  'box' => '1',
+  'cat_no' => '1',
+  'cat0' => '2',
+  'cat1' => '7',
+)
+
+
+2013May25-13:54:10
+POST: array (
+  'csrftoken' => '99adaf46039be7a3af6d41e109d9a09e',
+  'action' => 'process',
+  'box' => '',
+  'cat_no' => '1',
+  'cat0' => '2',
+  'cat1' => '7',
+  'submitit' => 'SELECT CATEGORY >>',
+)
+
+
+2013May25-13:54:11
+POST: array (
+)
+
+
+2013May25-13:59:34
+POST: array (
+)
+
+
+2013May25-13:59:41
+POST: array (
+  'csrftoken' => '99adaf46039be7a3af6d41e109d9a09e',
+  'action' => 'process',
+  'box' => '0',
+  'cat_no' => '1',
+)
+
+
+2013May25-13:59:43
+POST: array (
+  'csrftoken' => '99adaf46039be7a3af6d41e109d9a09e',
+  'action' => 'process',
+  'box' => '0',
+  'cat_no' => '1',
+  'cat0' => '122',
+)
+
+
+2013May25-13:59:47
+POST: array (
+  'csrftoken' => '99adaf46039be7a3af6d41e109d9a09e',
+  'action' => 'process',
+  'box' => '1',
+  'cat_no' => '1',
+  'cat0' => '122',
+  'cat1' => '125',
+)
+
+
+2013May25-13:59:50
+POST: array (
+  'csrftoken' => '99adaf46039be7a3af6d41e109d9a09e',
+  'action' => 'process',
+  'box' => '',
+  'cat_no' => '1',
+  'cat0' => '122',
+  'cat1' => '125',
+  'submitit' => 'SELECT CATEGORY >>',
+)
+
+
+2013May25-13:59:51
+POST: array (
+)
+
+
+2013May25-13:59:56
+POST: array (
+)
+
+
+2013May25-14:00:00
+POST: array (
+  'csrftoken' => '99adaf46039be7a3af6d41e109d9a09e',
+  'action' => 'process',
+  'box' => '0',
+  'cat_no' => '1',
+  'cat0' => '29',
+  'cat1' => '125',
+)
+
+
+2013May25-14:00:06
+POST: array (
+  'csrftoken' => '99adaf46039be7a3af6d41e109d9a09e',
+  'action' => 'process',
+  'box' => '1',
+  'cat_no' => '1',
+  'cat0' => '29',
+  'cat1' => '33',
+)
+
+
+2013May25-14:00:38
+POST: array (
+  'csrftoken' => '99adaf46039be7a3af6d41e109d9a09e',
+  'action' => 'process',
+  'box' => '',
+  'cat_no' => '1',
+  'cat0' => '29',
+  'cat1' => '33',
+  'submitit' => 'SELECT CATEGORY >>',
+)
+
+
+2013May25-14:00:39
+POST: array (
+)
+
+
+2013May25-23:07:09
+POST: array (
+)
+
+
+2013May25-23:28:51
+POST: array (
+)
+
+
+2013May25-23:30:42
+POST: array (
+)
+
+
+2013May25-23:30:44
+POST: array (
+)
+
+
+2013May25-23:31:24
+POST: array (
+)
+
+
+2013May25-23:31:56
+POST: array (
+)
+
+
+2013May25-23:48:15
+POST: array (
+)
+
+
+2013May25-23:54:56
+POST: array (
+)
+
+
+2013May25-23:58:12
+POST: array (
+)
+
+
+2013May26-00:08:14
+POST: array (
+)
+
+
+2013May26-00:08:25
+POST: array (
+)
+
+
+2013May26-00:08:57
+POST: array (
+)
+
+
+2013May26-00:09:02
+POST: array (
+)
+
+
+2013May26-00:09:04
+POST: array (
+)
+
+
+2013May26-00:09:07
+POST: array (
+)
+
+
+2013May26-00:09:10
+POST: array (
+)
+
+
+2013May26-00:09:12
+POST: array (
+)
+
+
+2013May26-00:09:14
+POST: array (
+)
+
+
+2013May26-00:10:13
+POST: array (
+)
+
+
+2013May26-00:10:19
+POST: array (
+)
+
+
+2013May26-00:10:50
+POST: array (
+  'bid' => '.80',
+  'seller_id' => '1',
+  'title' => 'Ticket to something',
+  'category' => '167',
+  'id' => '2',
+  'csrftoken' => '88854d3b6fae4d99a7387e781d07038b',
+)
+
+
+2013May26-00:10:57
+POST: array (
+  'csrftoken' => '88854d3b6fae4d99a7387e781d07038b',
+  'bid' => '0.80',
+  'password' => 'bidder',
+  'id' => '2',
+  'action' => 'bid',
+  'Input' => 'Confirm bid',
+)
+
+
+2013May26-00:39:33
+POST: array (
+)
+
+
+2013May26-00:39:36
+POST: array (
+)
+
+
+2013May26-01:13:40
+POST: array (
+)
+
+
+2013May26-01:14:31
+POST: array (
+)
+
+
+2013May26-01:14:37
+POST: array (
+  'csrftoken' => '1aceb57f8c41a4bac95548fd62f579eb',
+  'action' => 'process',
+  'box' => '0',
+  'cat_no' => '1',
+  'cat0' => '133',
+)
+
+
+2013May26-01:14:40
+POST: array (
+  'csrftoken' => '1aceb57f8c41a4bac95548fd62f579eb',
+  'action' => 'process',
+  'box' => '1',
+  'cat_no' => '1',
+  'cat0' => '133',
+  'cat1' => '139',
+)
+
+
+2013May26-01:14:41
+POST: array (
+  'csrftoken' => '1aceb57f8c41a4bac95548fd62f579eb',
+  'action' => 'process',
+  'box' => '1',
+  'cat_no' => '1',
+  'cat0' => '133',
+  'cat1' => '139',
+)
+
+
+2013May26-01:14:44
+POST: array (
+  'csrftoken' => '1aceb57f8c41a4bac95548fd62f579eb',
+  'action' => 'process',
+  'box' => '',
+  'cat_no' => '1',
+  'cat0' => '133',
+  'cat1' => '139',
+  'submitit' => 'SELECT CATEGORY >>',
+)
+
+
+2013May26-01:14:44
+POST: array (
+)
+
+
+2013May26-01:15:28
+POST: array (
+)
+
+
+2013May26-01:15:53
+POST: array (
+  'csrftoken' => '1aceb57f8c41a4bac95548fd62f579eb',
+  'uploadpicture' => 'Upload file',
+)
+
+
+2013May26-01:15:58
+POST: array (
+  'csrftoken' => '1aceb57f8c41a4bac95548fd62f579eb',
+  'x1' => 'NaN',
+  'y1' => 'NaN',
+  'x2' => 'NaN',
+  'y2' => 'NaN',
+  'w' => 'NaN',
+  'h' => 'NaN',
+  'upload_thumbnail' => 'Save Thumbnail',
+)
+
+
+2013May26-01:16:26
+POST: array (
+  'csrftoken' => '1aceb57f8c41a4bac95548fd62f579eb',
+  'creategallery' => '>>> Create Gallery <<<',
+)
+
+
+2013May26-01:16:37
+POST: array (
+)
+
+
+2013May26-01:16:39
+POST: array (
+)
+
+
+2013May26-01:16:45
+POST: array (
+)
+
+
+2013May26-01:16:52
+POST: array (
+  'csrftoken' => '1aceb57f8c41a4bac95548fd62f579eb',
+  'creategallery' => '>>> Create Gallery <<<',
+)
+
+
+2013May26-01:16:57
+POST: array (
+)
+
+
+2013May26-01:16:58
+POST: array (
+)
+
+
+2013May26-01:17:03
+POST: array (
+  'csrftoken' => '1aceb57f8c41a4bac95548fd62f579eb',
+  'title' => 'Handheld Vacuum',
+  'subtitle' => 'Dyson',
+  'description' => '',
+  'imgtype' => '1',
+  'numimages' => '1',
+  'atype' => '1',
+  'iquantity' => '1',
+  'minimum_bid' => '0.99',
+  'shipping_cost' => '0.00',
+  'with_reserve' => 'no',
+  'reserve_price' => '0.00',
+  'buy_now' => 'no',
+  'increments' => '1',
+  'start_now' => '1',
+  'duration' => '1',
+  'shipping' => '1',
+  'international' => '1',
+  'shipping_terms' => '',
+  'is_featured' => 'on',
+  'action' => '2',
+)
+
+
+2013May26-01:17:19
+POST: array (
+  'csrftoken' => '1aceb57f8c41a4bac95548fd62f579eb',
+  'title' => 'Handheld Vacuum',
+  'subtitle' => 'Dyson',
+  'description' => '',
+  'imgtype' => '1',
+  'numimages' => '1',
+  'atype' => '1',
+  'iquantity' => '1',
+  'minimum_bid' => '0.99',
+  'shipping_cost' => '0.00',
+  'with_reserve' => 'no',
+  'reserve_price' => '0.00',
+  'buy_now' => 'no',
+  'increments' => '1',
+  'start_now' => '1',
+  'duration' => '1',
+  'shipping' => '1',
+  'international' => '1',
+  'shipping_terms' => '',
+  'is_featured' => 'on',
+  'is_bold' => 'on',
+  'is_highlighted' => 'on',
+  'action' => '2',
+)
+
+
+2013May26-01:17:32
+POST: array (
+  'csrftoken' => '1aceb57f8c41a4bac95548fd62f579eb',
+  'title' => 'Handheld Vacuum',
+  'subtitle' => 'Dyson',
+  'description' => '',
+  'imgtype' => '1',
+  'numimages' => '1',
+  'atype' => '2',
+  'iquantity' => '1',
+  'minimum_bid' => '0.99',
+  'shipping_cost' => '0.00',
+  'with_reserve' => 'no',
+  'reserve_price' => '0.00',
+  'buy_now' => 'no',
+  'increments' => '1',
+  'start_now' => '1',
+  'duration' => '1',
+  'shipping' => '1',
+  'international' => '1',
+  'shipping_terms' => '',
+  'is_featured' => 'on',
+  'is_bold' => 'on',
+  'is_highlighted' => 'on',
+  'action' => '2',
+)
+
+
+2013May26-01:18:21
+POST: array (
+  'csrftoken' => '1aceb57f8c41a4bac95548fd62f579eb',
+  'title' => 'Handheld Vacuum',
+  'subtitle' => 'Dyson',
+  'description' => 'I need a a small vacuum cleaner sent to Sydney, Australia',
+  'imgtype' => '1',
+  'numimages' => '1',
+  'atype' => '2',
+  'iquantity' => '1',
+  'minimum_bid' => '0.99',
+  'shipping_cost' => '0.00',
+  'with_reserve' => 'no',
+  'reserve_price' => '0.00',
+  'buy_now' => 'no',
+  'increments' => '1',
+  'start_now' => '1',
+  'duration' => '1',
+  'shipping' => '1',
+  'international' => '1',
+  'shipping_terms' => '',
+  'is_featured' => 'on',
+  'is_bold' => 'on',
+  'is_highlighted' => 'on',
+  'action' => '2',
+)
+
+
+2013May26-01:22:13
+POST: array (
+)
+
+
+2013May26-01:24:16
+POST: array (
+  'csrftoken' => 'f4aa76fdf482fed3d06e7cc85d2ef704',
+  'action' => 'process',
+  'box' => '0',
+  'cat_no' => '1',
+  'cat0' => '75',
+)
+
+
+2013May26-01:24:19
+POST: array (
+  'csrftoken' => 'f4aa76fdf482fed3d06e7cc85d2ef704',
+  'action' => 'process',
+  'box' => '1',
+  'cat_no' => '1',
+  'cat0' => '75',
+  'cat1' => '79',
+)
+
+
+2013May26-01:24:21
+POST: array (
+  'csrftoken' => 'f4aa76fdf482fed3d06e7cc85d2ef704',
+  'action' => 'process',
+  'box' => '',
+  'cat_no' => '1',
+  'cat0' => '75',
+  'cat1' => '79',
+  'submitit' => 'SELECT CATEGORY >>',
+)
+
+
+2013May26-01:24:22
+POST: array (
+)
+
+
+2013May26-01:29:52
+POST: array (
+)
+
+
+2013May26-01:30:56
+POST: array (
+)
+
+
+2013May26-01:31:54
+POST: array (
+)
+
+
+2013May26-01:32:50
+POST: array (
+)
+
+
+2013May26-01:33:37
+POST: array (
+)
+
+
+2013May26-01:34:37
+POST: array (
+)
+
+
+2013May26-01:34:48
+POST: array (
+)
+
+
+2013May26-01:40:13
+POST: array (
+)
+
+
+2013May26-01:41:11
+POST: array (
+)
+
+
+2013May26-01:41:38
+POST: array (
+)
+
+
+2013May26-01:47:03
+POST: array (
+)
+
+
+2013May26-01:48:28
+POST: array (
+)
+
+
+2013May26-01:49:34
+POST: array (
+)
+
+
+2013May26-01:51:16
+POST: array (
+)
+
+
+2013May26-01:51:22
+POST: array (
+)
+
+
+2013May26-01:51:49
+POST: array (
+  'csrftoken' => 'f4aa76fdf482fed3d06e7cc85d2ef704',
+  'atype' => '2',
+  'title' => '',
+  'subtitle' => '',
+  'description' => '',
+  'imgtype' => '1',
+  'numimages' => '0',
+  'iquantity' => '1',
+  'minimum_bid' => '0.99',
+  'shipping_cost' => '0.00',
+  'with_reserve' => 'no',
+  'reserve_price' => '0.00',
+  'buy_now' => 'no',
+  'increments' => '1',
+  'start_now' => '1',
+  'duration' => '1',
+  'international' => '1',
+  'shipping' => 'sps',
+  'shipping_terms' => '',
+  'action' => '2',
+)
+
+
+2013May26-01:52:43
+POST: array (
+  'csrftoken' => 'f4aa76fdf482fed3d06e7cc85d2ef704',
+  'atype' => '2',
+  'title' => 'Kitchenaid Food Processor',
+  'subtitle' => 'from USA',
+  'description' => 'to Australia',
+  'imgtype' => '1',
+  'numimages' => '0',
+  'iquantity' => '1',
+  'minimum_bid' => '300',
+  'shipping_cost' => '500',
+  'with_reserve' => 'no',
+  'reserve_price' => '0.00',
+  'buy_now' => 'no',
+  'increments' => '1',
+  'start_now' => '1',
+  'duration' => '30',
+  'international' => '1',
+  'shipping' => 'sps',
+  'shipping_terms' => '',
+  'payment' => 
+  array (
+    0 => 'paypal',
+  ),
+  'action' => '2',
+)
+
+
+2013May26-01:52:51
+POST: array (
+  'csrftoken' => 'f4aa76fdf482fed3d06e7cc85d2ef704',
+  'nick' => 'bidder',
+  'password' => 'bidder',
+  'action' => '3',
+)
+
+
+2013May26-02:12:48
+POST: array (
+)
+
+
+2013May26-02:16:28
+POST: array (
+)
+
+
+2013May26-02:17:10
+POST: array (
+)
+
+
+2013May26-02:17:16
+POST: array (
+)
+
+
+2013May26-02:17:23
+POST: array (
+)
+
+
+2013May26-02:20:31
+POST: array (
+)
+
+
+2013May26-02:24:41
+POST: array (
+)
+
+
+2013May26-02:26:07
+POST: array (
+)
+
+
+2013May26-02:26:14
+POST: array (
+)
+
+
+2013May26-02:26:24
+POST: array (
+)
+
+
+2013May26-02:28:03
+POST: array (
+)
+
+
+2013May26-02:28:32
+POST: array (
+)
+
+
+2013May26-02:29:14
+POST: array (
+)
+
+
+2013May26-02:29:20
+POST: array (
+  'csrftoken' => 'cf473406986dbb4242c473a32dc2a7d2',
+  'atype' => '2',
+  'title' => '',
+  'subtitle' => '',
+  'shipping_terms' => '',
+  'description' => '',
+  'imgtype' => '1',
+  'numimages' => '0',
+  'iquantity' => '1',
+  'minimum_bid' => '0.99',
+  'shipping_cost' => '0.00',
+  'with_reserve' => 'no',
+  'reserve_price' => '0.00',
+  'buy_now' => 'no',
+  'increments' => '1',
+  'start_now' => '1',
+  'duration' => '1',
+  'international' => '1',
+  'shipping' => 'sps',
+  'action' => '2',
+)
+
+
+2013May26-02:31:01
+POST: array (
+)
+
+
+2013May26-02:31:18
+POST: array (
+)
+
+
+2013May26-02:31:20
+POST: array (
+  'csrftoken' => 'dc139f987e9daee65f111c2442d26589',
+  'action' => 'process',
+  'box' => '0',
+  'cat_no' => '1',
+  'cat0' => '68',
+)
+
+
+2013May26-02:31:22
+POST: array (
+  'csrftoken' => 'dc139f987e9daee65f111c2442d26589',
+  'action' => 'process',
+  'box' => '1',
+  'cat_no' => '1',
+  'cat0' => '68',
+  'cat1' => '71',
+)
+
+
+2013May26-02:31:25
+POST: array (
+  'csrftoken' => 'dc139f987e9daee65f111c2442d26589',
+  'action' => 'process',
+  'box' => '',
+  'cat_no' => '1',
+  'cat0' => '68',
+  'cat1' => '71',
+  'submitit' => 'SELECT CATEGORY >>',
+)
+
+
+2013May26-02:31:25
+POST: array (
+)
+
+
