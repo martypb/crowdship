@@ -62,7 +62,7 @@ setvars();
 
 if (isset($_GET['mode']) && $_GET['mode'] == 'recall')
 	$_SESSION['action'] = 1;
-
+$atype = 2;
 switch ($_SESSION['action'])
 {
 	case 3:
@@ -474,8 +474,10 @@ switch ($_SESSION['action'])
 						'STARTDATE' => (empty($start_now)) ? FormatDate($a_starts) : FormatDate($system->ctime),
 						'DURATION' => mysql_result($res, 0, 'description'),
 						'INCREMENTS' => ($increments == 1) ? $MSG['614'] : $system->print_money($customincrement, false),
-						'ATYPE' => $system->SETTINGS['auction_types'][$atype],
-						'ATYPE_PLAIN' => $atype,
+						//'ATYPE' => $system->SETTINGS['auction_types'][$atype], //HACK! to make it a dutch auction
+						//'ATYPE_PLAIN' => $atype,
+						'ATYPE' => 'Dutch Auction',
+						'ATYPE_PLAIN' => 2,
 						'SHIPPING' => (intval($shipping) == 1) ? $MSG['031'] : $MSG['032'],
 						'INTERNATIONAL' => ($international) ? $MSG['033'] : $MSG['043'],
 						'SHIPPING_TERMS' => nl2br(stripslashes($shipping_terms)),

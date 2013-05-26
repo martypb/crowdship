@@ -61,6 +61,9 @@ $template->assign_vars(array(
 		'B_BOARDS' => ($system->SETTINGS['boards'] == 'y')
 		));
 
+//if (!$user->logged_in && $_SERVER['REQUEST_URI'] != '/WeBid-1.0.6/register.php?' && $_SERVER['REQUEST_URI'] != '/WeBid-1.0.6/user_login.php?')
+//	header("Location:about.php");//HACK! to make you log out to about page if not logged in 
+
 $template->set_filenames(array(
 		'header' => 'global_header.tpl'
 		));

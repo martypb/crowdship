@@ -198,6 +198,7 @@ if (isset($_POST['action']) && !isset($errmsg))
 	}
 	$send_email = false;
 	// make the bid
+	$atype=2; //HACK! make it a dutch auction
 	if ($atype == 1 && !isset($errmsg)) // normal auction
 	{
 		if ($system->SETTINGS['proxy_bidding'] == 'n')
